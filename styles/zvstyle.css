@@ -1,0 +1,16 @@
+.maintail{
+    color: black;
+}
+
+.additional{
+    color: red;
+}
+
+.link {
+    display: block;
+    text-align: center;
+}
+
+a { 
+    text-decoration: none; 
+}
