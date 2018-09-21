@@ -1,16 +1,15 @@
 .maintail{
     color: black;
 }
-
 .additional{
     color: red;
 }
-
 .link {
     display: block;
     text-align: center;
+    padding: 7px 7px;
+    font-size: 1em
 }
-
 a { 
     text-decoration: none; 
 }
